@@ -1,6 +1,6 @@
 {
   "name": "ndx-memory-check",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "check the memory status of an ndx-framework app",
   "main": "build/app.js",
   "scripts": {
